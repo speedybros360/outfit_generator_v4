@@ -1,6 +1,8 @@
-images/pants/**
-images/avatar/**
-images/background/**
-images/jacket/**
-images/shirt/**
-images/shoes/**
+images/pants/*.png
+images/avatar/*.png
+images/background/*.PNG
+images/background/*.jpeg
+images/background/*.jpg
+images/jacket/*.png
+images/shirt/*.png
+images/shoes/*.png
